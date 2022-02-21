@@ -1,0 +1,914 @@
+{
+    "city":[
+        {
+          "_id": 1,
+          "city_name": "Ahmedabad",
+          "city": 1
+        },
+     
+        {
+          "_id": 2,
+          "city_name": "Amreli",
+          "city": 2
+        },
+    
+        {
+          "_id": 3,
+          "city_name": "Anand",
+          "city": 3
+        },
+    
+        {
+          "_id": 4,
+          "city_name": "Aravalli",
+          "city": 4
+        },
+    
+        {
+          "_id": 5,
+          "city_name": "Banaskantha",
+          "city": 5
+        },
+    
+        {
+          "_id": 6,
+          "city_name": "Bharuch",
+          "city": 6
+        },
+    
+        {
+          "_id": 7,
+          "city_name": "Bhavnagar",
+          "city": 7
+        },
+    
+        {
+          "_id": 8,
+          "city_name": "Botad",
+          "city": 8
+        },
+    
+        {
+          "_id": 9,
+          "city_name": "Chhota Udepur",
+          "city": 9
+        },
+    
+        {
+          "_id": 10,
+          "city_name": "Dahod",
+          "city": 10
+        },
+    
+        {
+          "_id": 11,
+          "city_name": "Dangs",
+          "city": 11
+        },
+    
+        {
+          "_id": 12,
+          "city_name": "Devbhoomi Dwarka",
+          "city": 12
+        },
+    
+        {
+          "_id": 13,
+          "city_name": "Gandhinagar",
+          "city": 13
+        },
+    
+        {
+          "_id": 14,
+          "city_name": "Gir Somnath",
+          "city": 14
+        },
+    
+        {
+          "_id": 15,
+          "city_name": "Jamnagar",
+          "city": 15
+        },
+    
+        {
+          "_id": 16,
+          "city_name": "Junagadh",
+          "city": 16
+        },
+    
+        {
+          "_id": 17,
+          "city_name": "Kachchh",
+          "city": 17
+        },
+    
+        {
+          "_id": 18,
+          "city_name": "Kheda ",
+          "city": 18
+        },
+  
+        {
+          "_id": 19,
+          "city_name": "Mahisagar",
+          "city": 19
+        },
+
+        {
+          "_id": 20,
+          "city_name": "Mehsana",
+          "city": 20
+        },
+        
+        {
+          "_id": 21,
+          "city_name": "Morbi",
+          "city": 21
+        },
+
+        {
+          "_id": 22,
+          "city_name": "Narmada ",
+          "city": 22
+        },
+
+        {
+          "_id": 23,
+          "city_name": "Navsari",
+          "city": 23
+        },
+
+        {
+          "_id": 24,
+          "city_name": "Panchmahal",
+          "city": 24
+        },
+
+        {
+          "_id": 25,
+          "city_name": "Patan",
+          "city": 25
+        },
+
+        {
+          "_id": 26,
+          "city_name": "Porbandar",
+          "city": 26
+        },
+
+        {
+          "_id": 27,
+          "city_name": "Rajkot",
+          "city": 27
+        },
+
+        {
+          "_id": 28,
+          "city_name": "Sabarkantha ",
+          "city": 28
+        },
+
+        {
+          "_id": 29,
+          "city_name": "Surat",
+          "city": 29
+        },
+
+        {
+          "_id": 30,
+          "city_name": "Surendranagar",
+          "city": 30
+        },
+
+        {
+          "_id": 31,
+          "city_name": "Vyara",
+          "city": 31
+        },
+
+        {
+          "_id": 32,
+          "city_name": "Vadodara",
+          "city": 32
+        },
+
+        {
+          "_id": 33,
+          "city_name": "Valsad",
+          "city": 33
+        }
+    ],
+    "hotel":[
+        {
+        "_id": "1",
+        "name": "650 - The Global Kitchen",
+        "city_name": "Ahmedabad",
+        "city": "1"
+    },
+    
+    {
+        "_id": "2",
+        "name": "Earthen Oven",
+        "city_name": "Ahmedabad",
+        "city": "1"
+    },
+
+    {
+        "_id": "3",
+        "name": "Kuro - The Asian Bistro",
+        "city_name": "Ahmedabad",
+        "city": "1"
+    },
+
+    {
+        "_id": "4",
+        "name": "Radhika Garden Restaurant",
+        "city_name": "Amreli",
+        "city": "2"
+    },
+
+    {
+        "_id": "5",
+        "name": "Lazeez Grill hotel non veg",
+        "city_name": "Amreli",
+        "city": "2"
+    },
+
+    {
+        "_id": "6",
+        "name": "Hotel Avadh",
+        "city_name": "Amreli",
+        "city": "2"
+    },
+
+    {
+        "_id": "7",
+        "name": "The Flames Restaurant",
+        "city_name": "Anand",
+        "city": "3"
+    },
+
+    {
+        "_id": "8",
+        "name": "Falcon Multi Cuisine Restaurant",
+        "city_name": "Anand",
+        "city": "3"
+    },
+
+    {
+        "_id": "9",
+        "name": "Adarsh Restaurant",
+        "city_name": "Anand",
+        "city": "3"
+    },
+
+    {
+        "_id": "10",
+        "name": "Aravali guest house restaurnt",
+        "city_name": "Aravalli",
+        "city": "4"
+    },
+
+    {
+        "_id": "11",
+        "name": "The Rayta Hills Cafe and Restaurant",
+        "city_name": "Aravalli",
+        "city": "4"
+    },
+
+    {
+        "_id": "12",
+        "name": "Arawali MiD WAy",
+        "city_name": "Aravalli",
+        "city": "4"
+    },
+
+    {
+        "_id": "13",
+        "name": "Hotel Royal",
+        "city_name": "Banaskantha ",
+        "city": "5"
+    },
+
+    {
+        "_id": "14",
+        "name": "Dadaji Family Restaurant",
+        "city_name": "Banaskantha ",
+        "city": "5"
+    },
+
+    {
+        "_id": "15",
+        "name": "Sparkling Garden Restaurant",
+        "city_name": "Banaskantha ",
+        "city": "5"
+    },
+
+    {
+        "_id": "16",
+        "name": "Spicy Wok",
+        "city_name": "Bharuch",
+        "city": "6"
+    },
+
+
+    {
+        "_id": "17",
+        "name": "Kulcha Affairs ",
+        "city_name": "Bharuch",
+        "city": "6"
+    },
+
+    {
+        "_id": "18",
+        "name": "Qualia - Multi Cuisine Restaurant",
+        "city_name": "Bharuch",
+        "city": "6"
+    },
+
+    {
+        "_id": "19",
+        "name": "Shriji's Garden Restaurant",
+        "city_name": "Bhavnagar",
+        "city": "7"
+    },
+
+    {
+        "_id": "20",
+        "name": "Rangoli The Delicacy Restaurant",
+        "city_name": "Bhavnagar",
+        "city": "7"
+    },
+
+    {
+        "_id": "21",
+        "name": "RUDRA DINING HALL",
+        "city_name": "Bhavnagar",
+        "city": "7"
+    },
+
+    {
+        "_id": "22",
+        "name": "RUDRA DINING HALL",
+        "city_name": "Bhotad",
+        "city": "8"
+    },
+
+    {
+        "_id": "23",
+        "name": "M.M ASHRAFI HOTEL",
+        "city_name": "Bhotad",
+        "city": "8"
+    },
+
+    {
+        "_id": "24",
+        "name": "Shree Nath Restaurant",
+        "city_name": "Bhotad",
+        "city": "8"
+    },
+
+    {
+        "_id": "25",
+        "name": "Hotel Neera",
+        "city_name": "Chhota Udepur",
+        "city": "9"
+    },
+
+    {
+        "_id": "26",
+        "name": "Hotel Neera",
+        "city_name": "Chhota Udepur",
+        "city": "9"
+    },
+
+    {
+        "_id": "27",
+        "name": "Hotel Neera",
+        "city_name": "Chhota Udepur",
+        "city": "9"
+    },
+
+    {
+        "_id": "28",
+        "name": "Chamunda Hotel Kathiyawadi",
+        "city_name": "Dahod",
+        "city": "10"
+    },
+
+    {
+        "_id": "29",
+        "name": "Jaliyan Bhojnalay",
+        "city_name": "Dahod",
+        "city": "10"
+    },
+
+    {
+        "_id": "30",
+        "name": "Meera restaurant",
+        "city_name": "Dahod",
+        "city": "10"
+    },
+
+    {
+        "_id": "31",
+        "name": "Mayur restaurant",
+        "city_name": "Dang",
+        "city": "11"
+    },
+
+    {
+        "_id": "32",
+        "name": "Foodies Fast Food",
+        "city_name": "Dang",
+        "city": "11"
+    },
+
+    {
+        "_id": "33",
+        "name": "Sai Hotal",
+        "city_name": "Dang",
+        "city": "11"
+    },
+
+    {
+        "_id": "34",
+        "name": "Achijaa Food Cafe",
+        "city_name": "Devbhoomi Dwarka",
+        "city": "12"
+    },
+
+    {
+        "_id": "35",
+        "name": "Meera Restaurant",
+        "city_name": "Devbhoomi Dwarka",
+        "city": "12"
+    },
+
+    {
+        "_id": "36",
+        "name": "Sonal Restaurant",
+        "city_name": "Devbhoomi Dwarka",
+        "city": "12"
+    },
+
+    {
+        "_id": "37",
+        "name": "Someplace Else",
+        "city_name": "Gandhinagar",
+        "city": "13"
+    },
+
+    {
+        "_id": "38",
+        "name": "Mocha",
+        "city_name": "Gandhinagar",
+        "city": "13"
+    },
+
+    {
+        "_id": "39",
+        "name": "Kansar Garden Restaurant",
+        "city_name": "Gandhinagar",
+        "city": "13"
+    },
+
+    {
+        "_id": "40",
+        "name": "Shree Ganesh restaurant",
+        "city_name": "Gir Somnath",
+        "city": "14"
+    },
+
+    {
+        "_id": "41",
+        "name": "Sukh-Sagar Gir Resort & Restaurant",
+        "city_name": "Gir Somnath",
+        "city": "14"
+    },
+
+    {
+        "_id": "42",
+        "name": "Aarav Farm House,",
+        "city_name": "Gir Somnath",
+        "city": "14"
+    },
+
+    {
+        "_id": "43",
+        "name": "Darjiiling Restaurant Jamnagar",
+        "city_name": "Jamnagar",
+        "city": "15"
+    },
+
+    {
+        "_id": "44",
+        "name": "The Masala Darbar",
+        "city_name": "Jamnagar",
+        "city": "15"
+    },
+
+    {
+        "_id": "45",
+        "name": "Shiv Dining Hall",
+        "city_name": "Jamnagar",
+        "city": "15"
+    },
+
+    {
+        "_id": "46",
+        "name": "Petals Restaurant",
+        "city_name": "Junagadh",
+        "city": "16"
+    },
+
+    {
+        "_id": "47",
+        "name": "Swati Restaurant",
+        "city_name": "Junagadh",
+        "city": "16"
+    },
+
+    {
+        "_id": "48",
+        "name": "Hayat Resturant",
+        "city_name": "Junagadh",
+        "city": "16"
+    },
+
+    {
+        "_id": "49",
+        "name": "Flavors Restaurant",
+        "city_name": "Kachchh",
+        "city": "17"
+    },
+
+    {
+        "_id": "50",
+        "name": "Sand and sky restaurant",
+        "city_name": "Kachchh",
+        "city": "17"
+    },
+
+    {
+        "_id": "51",
+        "name": "Amber Restaurant",
+        "city_name": "Kachchh",
+        "city": "17"
+    },
+
+    {
+        "_id": "52",
+        "name": "KHANA KHAZANA",
+        "city_name": "Kheda ",
+        "city": "18"
+    },
+
+    {
+        "_id": "53",
+        "name": "Highway Hotel Kathiyavadi",
+        "city_name": "Kheda ",
+        "city": "18"
+    },
+
+    {
+        "_id": "54",
+        "name": "Charbhuja Restaurant",
+        "city_name": "Kheda ",
+        "city": "18"
+    },
+
+    {
+        "_id": "55",
+        "name": "Hotel Savera",
+        "city_name": "Mahisagar",
+        "city": "19"
+    },
+
+    {
+        "_id": "56",
+        "name": "Dev Farm",
+        "city_name": "Mahisagar",
+        "city": "19"
+    },
+
+    {
+        "_id": "57",
+        "name": "Haveli Restaurant",
+        "city_name": "Mahisagar",
+        "city": "19"
+    },
+
+    {
+        "_id": "58",
+        "name": "Natraj Dining Hall",
+        "city_name": "Mehsana",
+        "city": "20"
+    },
+
+    {
+        "_id": "59",
+        "name": "Krishna Restaurant & Banquet",
+        "city_name": "Mehsana",
+        "city": "20"
+    },
+
+    {
+        "_id": "60",
+        "name": "Cozy Restaurant",
+        "city_name": "Mehsana",
+        "city": "20"
+    },
+
+    {
+        "_id": "61",
+        "name": "Hot N Spice",
+        "city_name": "Morbi",
+        "city": "21"
+    },
+
+    {
+        "_id": "62",
+        "name": "The Grand Mom's Restaurant",
+        "city_name": "Morbi",
+        "city": "21"
+    },
+
+    {
+        "_id": "63",
+        "name": "Zayka Restro",
+        "city_name": "Morbi",
+        "city": "21"
+    },
+
+    {
+        "_id": "64",
+        "name": "By the Fountain",
+        "city_name": "Narmada ",
+        "city": "22"
+    },
+
+    {
+        "_id": "65",
+        "name": "Hotel Narmada",
+        "city_name": "Narmada ",
+        "city": "22"
+    },
+
+
+    {
+        "_id": "66",
+        "name": "Narmada Tea Stall",
+        "city_name": "Narmada ",
+        "city": "22"
+    },
+
+    {
+        "_id": "67",
+        "name": "Cafe Klatsch",
+        "city_name": "Navsari",
+        "city": "23"
+    },
+
+    {
+        "_id": "68",
+        "name": "Sip N Snack",
+        "city_name": "Navsari",
+        "city": "23"
+    },
+
+    {
+        "_id": "69",
+        "name": "Dolphin's Egg point",
+        "city_name": "Navsari",
+        "city": "23"
+    },
+
+    {
+        "_id": "70",
+        "name": "Sarkar Raj Restaurant",
+        "city_name": "Panchmahal",
+        "city": "24"
+    },
+
+    {
+        "_id": "71",
+        "name": "Maa Jivdani Restaurant & Chinese",
+        "city_name": "Panchmahal",
+        "city": "24"
+    },
+
+    {
+        "_id": "72",
+        "name": "Makkhan Singh Ka Dhaba ",
+        "city_name": "Panchmahal",
+        "city": "24"
+    },
+
+    {
+        "_id": "73",
+        "name": "Aman mohalla kali bazar",
+        "city_name": "Patan",
+        "city": "25"
+    },
+
+
+    {
+        "_id": "74",
+        "name": "Hotel Asopalav",
+        "city_name": "Patan",
+        "city": "25"
+    },
+
+    {
+        "_id": "75",
+        "name": "Bansi Kathiyawadi",
+        "city_name": "Patan",
+        "city": "25"
+    },
+
+    {
+        "_id": "76",
+        "name": "Kathiyawadi King’s Gujarati Restaurant",
+        "city_name": "Porbandar",
+        "city": "26"
+    },
+
+    {
+        "_id": "77",
+        "name": "SHREE KANSAR RESTAURANT",
+        "city_name": "Porbandar",
+        "city": "26"
+    },
+
+    {
+        "_id": "78",
+        "name": "Vimal Restaurant",
+        "city_name": "Porbandar",
+        "city": "26"
+    },
+
+    {
+        "_id": "79",
+        "name": "Jaddu’s Food Field",
+        "city_name": "Rajkot",
+        "city": "27"
+    },
+
+    {
+        "_id": "80",
+        "name": "Ambrosia",
+        "city_name": "Rajkot",
+        "city": "27"
+    },
+
+
+    {
+        "_id": "81",
+        "name": "LORDS BANQUET RESTAURANT",
+        "city_name": "Rajkot",
+        "city": "27"
+    },
+
+    {
+        "_id": "82",
+        "name": "Vrundavan Garden Restaurant",
+        "city_name": "Sabarkantha",
+        "city": "28"
+    },
+
+    {
+        "_id": "83",
+        "name": "Cross Road Tawa Fry",
+        "city_name": "Sabarkantha",
+        "city": "28"
+    },
+
+    {
+        "_id": "84",
+        "name": "New Saurastra Restaurant & Baker's Make",
+        "city_name": "Sabarkantha",
+        "city": "28"
+    },
+
+    {
+        "_id": "85",
+        "name": "DAWAT Restaurant Lajpore",
+        "city_name": "Surat",
+        "city": "29"
+    },
+
+    {
+        "_id": "86",
+        "name": "BISMILLAH RESTAURANT",
+        "city_name": "Surat",
+        "city": "29"
+    },
+
+    {
+        "_id": "87",
+        "name": "Dipli Garden Restaurant",
+        "city_name": "Surat",
+        "city": "29"
+    },
+
+    {
+        "_id": "88",
+        "name": "Gokul Park Restaurant",
+        "city_name": "Surendranagar",
+        "city": "30"
+    },
+
+    {
+        "_id": "89",
+        "name": "PARATHAS & MORE",
+        "city_name": "Surendranagar",
+        "city": "30"
+    },
+
+    {
+        "_id": "90",
+        "name": "Atithi Restaurant",
+        "city_name": "Surendranagar",
+        "city": "30"
+    },
+
+    {
+        "_id": "91",
+        "name": "Madhuli Restaurant",
+        "city_name": "Vyara",
+        "city": "31"
+    },
+
+    {
+        "_id": "92",
+        "name": "Dosa Hub",
+        "city_name": "Vyara",
+        "city": "31"
+    },
+
+    {
+        "_id": "93",
+        "name": "Kiran Dhosa Center",
+        "city_name": "Vyara",
+        "city": "31"
+    },
+
+    {
+        "_id": "94",
+        "name": "Sheesh Mahal",
+        "city_name": "Vadodara",
+        "city": "32"
+    },
+
+    {
+        "_id": "95",
+        "name": "Barbeque Nation",
+        "city_name": "Vadodara",
+        "city": "32"
+    },
+
+    {
+        "_id": "96",
+        "name": "Jassi De Parathe",
+        "city_name": "Vadodara",
+        "city": "32"
+    },
+
+    {
+        "_id": "97",
+        "name": "Aahar sandwich & chinese parlour",
+        "city_name": "Valsad",
+        "city": "33"
+    },
+
+    {
+        "_id": "98",
+        "name": "Hotel Vansh",
+        "city_name": "Valsad",
+        "city": "33"
+    },
+
+    {
+        "_id": "99 ",
+        "name": "Udipi Restaurant Valsad",
+        "city_name": "Valsad",
+        "city": "33"
+    },
+
+    {
+        "_id": "100",
+        "name": "Sarvottam Restaurant",
+        "city_name": "Surat",
+        "city": "29"
+    },
+
+    {
+        "_id": "101",
+        "name": "Om Restaurant",
+        "city_name": "Surat",
+        "city": "29"
+    }
+
+  ]
+}
