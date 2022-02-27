@@ -22,7 +22,6 @@
         "average_rating": 4.8,
         "rating_text": "Good",
         "cost":420,
-        "contact_number": 945878671,
         "category_type":[
             {
                 "category_id":1,
@@ -39,7 +38,6 @@
         "average_rating": 4.7,
         "rating_text": "Good,High protein",
         "cost": 900,
-        "contact_number": "122345352465",
         "category_type":[
             {
                 "category_id": 2,
@@ -56,7 +54,6 @@
         "average_rating": 4.1,
         "rating_text": "very good",
         "cost": 400,
-        "contact_number": "7832642465",
         "category_type":[
             {
                 "category_id": 2,
@@ -73,7 +70,6 @@
         "average_rating": 4.9,
         "rating_text": "Excellent",
         "cost": 900,
-        "contact_number": "46783377564",
         "category_type":[
             {
                 "category_id": 3,
@@ -89,7 +85,6 @@
         "average_rating": 4.2,
         "rating_text": "very good",
         "cost": 100,
-        "contact_number": "46750983964",
         "category_type":[
             {
                 "category_id": 3,
@@ -105,7 +100,6 @@
         "average_rating": 4.5,
         "rating_text": "Very Good",
         "cost": 140,
-        "contact_number": "3496508401",
         "category_type":[
             {
                 "category_id": 4,
@@ -121,7 +115,6 @@
         "average_rating": 4.1,
         "rating_text": "Good",
         "cost": 90,
-        "contact_number": "3476347401",
         "category_type":[
             {
                 "category_id": 4,
@@ -137,7 +130,6 @@
         "average_rating": 4.5,
         "rating_text": "Very Good",
         "cost": 40,
-        "contact_number": "8731537554",
         "category_type":[
             {
                 "category_id": 5,
@@ -153,7 +145,6 @@
         "average_rating": 4.1,
         "rating_text": "Good",
         "cost": 70,
-        "contact_number": "8731876754",
         "category_type":[
             {
                 "category_id": 5,
@@ -169,7 +160,6 @@
         "average_rating": 4,
         "rating_text": "Very Good",
         "cost": 500,
-        "contact_number": "1233766534",
         "category_type":[
             {
                 "category_id": 6,
@@ -185,7 +175,6 @@
         "average_rating": 4,
         "rating_text": "Good",
         "cost": 200,
-        "contact_number": "1989877666534",
         "category_type":[
             {
                 "category_id": 6,
