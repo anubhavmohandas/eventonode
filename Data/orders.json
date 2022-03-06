@@ -13,5 +13,21 @@
         "bank_status":"TXN_success",
         "date":"21-02-2022",
         "status":"pending"
+    },
+
+    {
+        "_id":2,
+        "category_id":2,
+        "category_name":"Promps",
+        "name":"Anubhav",
+        "phone":5214638596,
+        "email":"anubhav@gmail.com",
+        "cost":40,
+        "address":"House 8",
+        "menuItems":[ 3,8 ],
+        "bank":"Kotak Bank",
+        "bank_status":"TXN_success",
+        "date":"21-02-2022",
+        "status":"pending"
     }
 ]
